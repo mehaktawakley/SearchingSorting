@@ -14,7 +14,6 @@ Algorithm
     printf"data not found"
 7. Exit
 */
-
 //-------------------------------------------------------//
 
 #include<stdio.h>
